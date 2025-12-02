@@ -1,4 +1,5 @@
 **INTRODUCTION**
+
 Audio classification is a machine learning task that involves automatically recognizing and categorizing sounds into predefined classes. Instead of processing images or text, the system takes an audio signal as input and analyzes it to identify patterns that distinguish different sounds. The raw audio is first preprocessed and transformed into meaningful representations such as Mel-Frequency Cepstral Coefficients (MFCCs), which capture the frequency and energy characteristics of the signal. These features are then used to train deep learning models like Convolutional Neural Networks (CNNs) which learn to map the features to specific labels. During prediction, the trained model can classify new audio samples into the correct category, such as “yes,” “no,” “up,” or “down.” The performance of the model is typically evaluated using metrics such as accuracy, precision, recall, and F1-score. Audio classification plays a vital role in applications like speech recognition, voice assistants, music analysis, and environmental sound detection.
 
 **INPUT DATASET**
